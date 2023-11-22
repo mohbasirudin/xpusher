@@ -1,6 +1,6 @@
 name: xpusher
-description: A new Flutter plugin project.
-version: 0.0.1
+description: Plugin pusher client for flutter.
+version: 1.0.0
 homepage: https://github.com/mohbasirudin/xpusher
 
 environment:
