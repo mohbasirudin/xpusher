@@ -22,16 +22,6 @@ class _PageHomeState extends State<PageHome> {
   void initState() {
     // TODO: implement initState
     super.initState();
-
-    init();
-  }
-
-  init() {
-    _conApiKey.text = "d23b3083a291355fa2bc";
-    // _conApiKey.text = "aab7cc27-552a-43c8-8bd2-c1f771ec4fd2";
-    _conChannelName.text = "cName";
-    _conEventName.text = "eName";
-    _conCluster.text = "ap1";
   }
 
   @override
