@@ -1,7 +1,7 @@
 name: xpusher
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mohbasirudin/xpusher
 
 environment:
   sdk: '>=3.1.5 <4.0.0'

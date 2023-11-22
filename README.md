@@ -1,4 +1,4 @@
-# xpusher
+# XPusher
 
 A new Flutter plugin project.
 
