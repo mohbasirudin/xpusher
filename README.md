@@ -1,7 +1,5 @@
 # XPusher
 
-A new Flutter plugin project.
-
 ## Supported Platform
 - Android : OK
 - iOS : Maintenance
