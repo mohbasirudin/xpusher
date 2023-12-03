@@ -90,7 +90,6 @@ public class XpusherPlugin implements FlutterPlugin, MethodCallHandler, Activity
                 disconnect(call, result);
                 break;
             case "subscribe":
-//                subscribe(call);
                 break;
             case "unsubscribe":
                 unsubscribe(call);
@@ -145,11 +144,6 @@ public class XpusherPlugin implements FlutterPlugin, MethodCallHandler, Activity
             if (pusher == null) {
                 return;
             }
-
-//            String channelName = call.argument("channelName");
-//            String eventName = call.argument("eventName");
-//            boolean isPrivate = channelName.toLowerCase().contains("private-");
-//
 
             if (isPrivate) {
                 pusher.subscribePrivate(channelName, _privateChannelEventListener(), eventName);

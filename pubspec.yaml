@@ -1,10 +1,10 @@
 name: xpusher
 description: Plugin pusher client for flutter.
-version: 1.0.0
+version: 1.0.3
 homepage: https://github.com/mohbasirudin/xpusher
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: '>=3.1.2 <4.0.0'
   flutter: '>=3.3.0'
 
 dependencies:
